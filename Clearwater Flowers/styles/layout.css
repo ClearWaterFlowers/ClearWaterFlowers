@@ -1,0 +1,40 @@
+div{
+    border:2px solid #00C9A7;
+    position: absolute;  
+}
+
+.navbar{
+    top:5px;
+    left:5px;
+    right:5px;
+    height:100px;
+}
+.footer{
+    bottom:5px;
+    left:5px;
+    right:5px;
+    height:50px;
+    text-align: center;
+}
+.leftpanel{
+    top:114px;
+    left:5px;
+    bottom: 64px;
+    width: 150px;
+    text-align: center;
+    font-style:italic;
+}
+.rightpanel{
+    top:114px;
+    right:5px;
+    bottom:64px;
+    width:150px;
+    text-align: center;
+    font-style:italic;
+}
+.mainpanel{
+    top:114px;
+    bottom:64px;
+    left:164px;
+    right:164px;
+}
